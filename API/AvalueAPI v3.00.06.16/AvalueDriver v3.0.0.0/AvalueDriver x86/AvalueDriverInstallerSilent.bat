@@ -1,0 +1,1 @@
+AvalueDriverInstaller.exe -s
