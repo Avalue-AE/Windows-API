@@ -1,0 +1,18 @@
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\bin\Debug\Info.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\bin\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\bin\Debug\Info.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\obj\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\Info\Info\obj\Debug\Info.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\bin\Debug\Info.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\obj\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\obj\Debug\Info.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\bin\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\bin\Debug\Info.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\Managed\Sample Code\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\bin\Debug\Info.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\bin\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\bin\Debug\Info.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\obj\Debug\Info.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\obj\Debug\Info.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\Info\C#\Info\Info\obj\Debug\Info.pdb

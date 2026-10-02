@@ -1,0 +1,30 @@
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe.config
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.pdb
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csprojResolveAssemblyReference.cache
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.Properties.Resources.resources
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.ReadWriteTest.resources
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csproj.GenerateResource.Cache
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.exe
+C:\Users\Test\Downloads\220929 IORW\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.Properties.Resources.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.ReadWriteTest.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\Sample Code\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csproj.GenerateResource.Cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\bin\Debug\ReadWriteTest.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.Properties.Resources.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.ReadWriteTest.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.csproj.GenerateResource.Cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\ReadWriteTest\C#\ReadWriteTest\ReadWriteTest\obj\Debug\ReadWriteTest.pdb

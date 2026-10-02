@@ -1,0 +1,18 @@
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\bin\Debug\LCD.exe.config
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\bin\Debug\LCD.exe
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\bin\Debug\LCD.pdb
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\obj\Debug\LCD.csprojResolveAssemblyReference.cache
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\obj\Debug\LCD.exe
+C:\Users\gary_tsai\Downloads\Backlight Control\LCD\LCD\obj\Debug\LCD.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\bin\Debug\LCD.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\obj\Debug\LCD.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\obj\Debug\LCD.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\bin\Debug\LCD.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\bin\Debug\LCD.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\Managed\Sample Code\LCD\LCD\obj\Debug\LCD.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\bin\Debug\LCD.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\obj\Debug\LCD.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\obj\Debug\LCD.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\bin\Debug\LCD.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\bin\Debug\LCD.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C#\LCD\LCD\obj\Debug\LCD.csprojResolveAssemblyReference.cache

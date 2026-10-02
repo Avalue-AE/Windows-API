@@ -1,0 +1,19 @@
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\bin\Debug\SMBUS.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\bin\Debug\SMBUS.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\bin\Debug\SMBUS.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.Properties.Resources.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.SMBUS.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.csproj.GenerateResource.Cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\Sample Code\SMBUS\SMBUS\obj\Debug\SMBUS.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\bin\Debug\SMBUS.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\bin\Debug\SMBUS.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\bin\Debug\SMBUS.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.Properties.Resources.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.SMBUS.resources
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\obj\Debug\SMBUS.csproj.GenerateResource.Cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\SMBUS\C#\SMBUS\SMBUS\bin\Debug\AvalueAPI.xml

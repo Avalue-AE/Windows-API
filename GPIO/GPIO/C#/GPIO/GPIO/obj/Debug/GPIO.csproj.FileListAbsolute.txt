@@ -1,0 +1,24 @@
+C:\Users\Test\Desktop\GPIO\GPIO\bin\Debug\GPIO.exe.config
+C:\Users\Test\Desktop\GPIO\GPIO\bin\Debug\GPIO.exe
+C:\Users\Test\Desktop\GPIO\GPIO\bin\Debug\GPIO.pdb
+C:\Users\Test\Desktop\GPIO\GPIO\obj\Debug\GPIO.csprojResolveAssemblyReference.cache
+C:\Users\Test\Desktop\GPIO\GPIO\obj\Debug\GPIO.exe
+C:\Users\Test\Desktop\GPIO\GPIO\obj\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\bin\Debug\GPIO.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\obj\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\obj\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\bin\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\bin\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO\GPIO\obj\Debug\GPIO.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\bin\Debug\GPIO.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\obj\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\obj\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\bin\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\bin\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\Sample Code\GPIO\GPIO\obj\Debug\GPIO.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\bin\Debug\GPIO.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\obj\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\obj\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\bin\Debug\GPIO.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\bin\Debug\GPIO.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO\GPIO\obj\Debug\GPIO.csprojResolveAssemblyReference.cache

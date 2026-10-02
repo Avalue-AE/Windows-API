@@ -1,0 +1,82 @@
+; CopyRight (c) 2021 Avalue Technology Inc., All Rights Reserved
+; AvalueDriver.inf
+; Avalue Driver
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider=%ManufacturerName%
+CatalogFile=AvalueDriver.cat
+DriverVer = 12/29/2021,3.0.0.0
+
+[DestinationDirs]
+DefaultDestDir = 12
+AvalueDriver_Device_CoInstaller_CopyFiles = 11
+
+; ================= Class section =====================
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+AvalueDriver.sys  = 1,,
+;
+
+
+;*****************************************
+; Install Section
+;*****************************************
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTx86
+
+[Standard.NTx86]
+%AvalueDriver.DeviceDesc%=AvalueDriver_Device, Root\AvalueDriver
+
+[AvalueDriver_Device.NT]
+CopyFiles=Drivers_Dir
+
+[Drivers_Dir]
+AvalueDriver.sys
+
+;-------------- Service installation
+[AvalueDriver_Device.NT.Services]
+AddService = AvalueDriver,%SPSVCINST_ASSOCSERVICE%, AvalueDriver_Service_Inst
+
+; -------------- AvalueDriver driver install sections
+[AvalueDriver_Service_Inst]
+DisplayName    = %AvalueDriver.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\AvalueDriver.sys
+
+;
+;--- AvalueDriver_Device Coinstaller installation ------
+;
+
+[AvalueDriver_Device.NT.CoInstallers]
+AddReg=AvalueDriver_Device_CoInstaller_AddReg
+CopyFiles=AvalueDriver_Device_CoInstaller_CopyFiles
+
+[AvalueDriver_Device_CoInstaller_AddReg]
+;
+
+
+[AvalueDriver_Device_CoInstaller_CopyFiles]
+;
+
+
+[AvalueDriver_Device.NT.Wdf]
+KmdfService =  AvalueDriver, AvalueDriver_wdfsect
+[AvalueDriver_wdfsect]
+KmdfLibraryVersion = 1.15
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+ManufacturerName="Avalue Technology Inc."
+ClassName="Avalue Drivers"
+DiskName = "Avalue Driver Installation Disk"
+AvalueDriver.DeviceDesc = "Avalue Driver"
+AvalueDriver.SVCDESC = "Avalue Driver Service"

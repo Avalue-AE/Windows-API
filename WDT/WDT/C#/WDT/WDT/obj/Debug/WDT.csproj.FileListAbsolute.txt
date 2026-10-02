@@ -1,0 +1,26 @@
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Debug\WDT.exe.config
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Debug\WDT.exe
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Debug\WDT.pdb
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Debug\AvalueAPI.dll
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Debug\AvalueAPI.xml
+C:\Users\Test\Downloads\220928\WDT\WDT\obj\Debug\WDT.csprojResolveAssemblyReference.cache
+C:\Users\Test\Downloads\220928\WDT\WDT\obj\Debug\WDT.exe
+C:\Users\Test\Downloads\220928\WDT\WDT\obj\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\bin\Debug\WDT.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\obj\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\obj\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\bin\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\bin\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\WDT\WDT\obj\Debug\WDT.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\bin\Debug\WDT.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\obj\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\obj\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\bin\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\bin\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\Managed\Sample Code\WDT\WDT\obj\Debug\WDT.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\bin\Debug\WDT.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\bin\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\bin\Debug\WDT.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\obj\Debug\WDT.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\obj\Debug\WDT.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\WDT\C#\WDT\WDT\obj\Debug\WDT.pdb

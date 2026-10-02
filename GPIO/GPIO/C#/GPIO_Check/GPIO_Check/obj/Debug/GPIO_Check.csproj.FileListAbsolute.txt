@@ -1,0 +1,18 @@
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\Sample Code\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\bin\Debug\GPIO_Check.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Check\GPIO_Check\obj\Debug\GPIO_Check.pdb

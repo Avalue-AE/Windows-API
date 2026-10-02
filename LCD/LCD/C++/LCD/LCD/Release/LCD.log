@@ -1,0 +1,12 @@
+﻿  複製了         1 個檔案。
+  複製了         1 個檔案。
+  stdafx.cpp
+  LCD.cpp
+LCD.cpp(233): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼
+  5 of 9 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  LCD.vcxproj -> D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C++\LCD\Release\LCD.exe
+  LCD.vcxproj -> D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\LCD\C++\LCD\Release\LCD.pdb (Full PDB)

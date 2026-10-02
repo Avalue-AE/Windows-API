@@ -1,0 +1,1495 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        "AvalueAPI"
+    </assembly>
+    <members>
+        <member name="M:Avalue.AvalueAPI.SIO.GPO_Write(System.Byte)">
+            <summary>
+Write GPO value.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SIO.GPO_Read">
+            <summary>
+Read GPO value.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SIO.GPI_Read">
+            <summary>
+Read GPI value.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SIO.GPIO_Init">
+            <summary>
+GPIO initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SIO.Disable">
+            <summary>
+SIO class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SIO.Init">
+            <summary>
+SIO class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.PowerOFFCountdown">
+            <summary>
+Get power off countdown.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.DelayOFF(Avalue.AvalueAPI.Setting.VMS.TIME)">
+            <summary>
+Power off delay.
+</summary>
+            <param name="time">Delay time.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.DelayON(Avalue.AvalueAPI.Setting.VMS.TIME)">
+            <summary>
+Power on delay.
+</summary>
+            <param name="time">Delay time.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.VinBootShutdown(Avalue.AvalueAPI.Setting.VMS.TRIGGER)">
+            <summary>
+Set Vin boot/shutdown trigger.
+</summary>
+            <param name="trigger">Vin boot/shutdown trigger.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.VinBootShutdown">
+            <summary>
+Get Vin boot/shutdown trigger.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.Ignition">
+            <summary>
+Get ignition.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.VMS.PowerInput">
+            <summary>
+Get power input range.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.CashDrawer.KickOut2">
+            <summary>
+Kick out.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.CashDrawer.KickOut1">
+            <summary>
+Kick out.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.CashDrawer.Disable">
+            <summary>
+Cash drawer class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.CashDrawer.Init">
+            <summary>
+Cash drawer class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.BuzzerBeep(System.Int32,System.Int32)">
+            <summary>
+Set buzzer beep.
+</summary>
+            <param name="hz">Beep frequency.</param>
+            <param name="ms">Beep time.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.BuzzerBeep(System.Int32)">
+            <summary>
+Set buzzer beep.
+</summary>
+            <param name="hz">Beep frequency.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.BuzzerMute">
+            <summary>
+Set buzzer mute.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.USB_Standby_Power(System.Int32,Avalue.AvalueAPI.Setting.STATE)">
+            <summary>
+Set onboard USB standby power state.
+</summary>
+            <param name="number">0 ~ 5.</param>
+            <param name="state">Function state.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.USB_Standby_Power(System.Int32)">
+            <summary>
+Get onboard USB standby power state.
+</summary>
+            <param name="number">0 ~ 5.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.Touch(Avalue.AvalueAPI.Setting.STATE)">
+            <summary>
+Set onboard touch state.
+</summary>
+            <param name="state">Function state.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.Touch">
+            <summary>
+Get onboard touch state.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.COM_Type(System.Int32,Avalue.AvalueAPI.Setting.TYPE)">
+            <summary>
+Set COM port type.
+</summary>
+            <param name="number">0 ~ 2.</param>
+            <param name="type">COM port type.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.COM_Type(System.Int32)">
+            <summary>
+Get COM port type.
+</summary>
+            <param name="number">0 ~ 2.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.AMP_Gain_Text(System.Int32)">
+            <summary>
+Get onboard AMP gain value text.
+</summary>
+            <param name="value">0 ~ 3.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.AMP_Gain(System.Int32)">
+            <summary>
+Set onboard AMP gain.
+</summary>
+            <param name="value">0 ~ 3.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Setting.AMP_Gain">
+            <summary>
+Get onboard AMP gain.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.I2C_Disable">
+            <summary>
+Change the formatting of some commands back to SMBUS.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.I2C_Enable">
+            <summary>
+Change the formatting of some commands to communicate with I2C devices.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Write(Avalue.AvalueAPI.RWSIZE,System.Byte,System.Byte,System.UInt32!System.Runtime.CompilerServices.IsLong)">
+            <summary>
+Write data.
+</summary>
+            <param name="size">Write size.</param>
+            <param name="addr">Write address.</param>
+            <param name="reg">Write register.</param>
+            <param name="data">Write data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Read(System.Byte,System.Byte,System.UInt32!System.Runtime.CompilerServices.IsLong*,System.Int16*)">
+            <summary>
+Read SMBUS block.
+</summary>
+            <param name="addr">address.</param>
+            <param name="command">register.</param>
+            <param name="data">return data.</param>
+            <param name="length">return length.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Read(Avalue.AvalueAPI.RWSIZE,System.Byte,System.Byte,System.UInt32!System.Runtime.CompilerServices.IsLong*)">
+            <summary>
+Read data.
+</summary>
+            <param name="size">Read size.</param>
+            <param name="addr">Read address.</param>
+            <param name="reg">Read register.</param>
+            <param name="data">Return data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Status">
+            <summary>
+Get status.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Disable">
+            <summary>
+SMBUS class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.SMBUS.Init">
+            <summary>
+SMBUS class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.WDT.Countdown">
+            <summary>
+Get countdown.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.WDT.Stop">
+            <summary>
+Stop countdown.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.WDT.Start(Avalue.AvalueAPI.WDT.UNIT,System.UInt16)">
+            <summary>
+Start countdown.
+</summary>
+            <param name="unit">Countdown unit.</param>
+            <param name="time">SECOND: 0 ~ 65535; MINUTE: 0 ~ 1092.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.WDT.Disable">
+            <summary>
+Watchdog timer class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.WDT.Init">
+            <summary>
+Watchdog timer class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Brightness(System.Byte)">
+            <summary>
+Set brightness.
+</summary>
+            <param name="value">BIOS control: 0x00 ~ 0xFF PWM value; OS control: 0 ~ 100 percentage.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Brightness">
+            <summary>
+Get brightness.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Backlight(Avalue.AvalueAPI.LCD.LIGHT)">
+            <summary>
+Set backlight status.
+</summary>
+            <param name="light">Backlight status.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Backlight">
+            <summary>
+Get backlight status.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Control(Avalue.AvalueAPI.LCD.CTRL)">
+            <summary>
+Set control mode.
+</summary>
+            <param name="ctrl">Control mode.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Control">
+            <summary>
+Get control mode.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Clock(Avalue.AvalueAPI.LCD.CLOCK)">
+            <summary>
+Set clock frequency.
+</summary>
+            <param name="clock">Clock frequency.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Clock">
+            <summary>
+Get clock frequency.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Type">
+            <summary>
+Get type specifications.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Disable">
+            <summary>
+LCD class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.LCD.Init">
+            <summary>
+LCD class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Write(Avalue.AvalueAPI.ACCESS,Avalue.AvalueAPI.RWSIZE,System.UInt32!System.Runtime.CompilerServices.IsLong,System.UInt32!System.Runtime.CompilerServices.IsLong)">
+            <summary>
+Write data.
+</summary>
+            <param name="access">Write access.</param>
+            <param name="size">Write size.</param>
+            <param name="command">I/O port index or memory address.</param>
+            <param name="data">Write data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Read(Avalue.AvalueAPI.ACCESS,Avalue.AvalueAPI.RWSIZE,System.UInt32!System.Runtime.CompilerServices.IsLong)">
+            <summary>
+Read data.
+</summary>
+            <param name="access">Read access.</param>
+            <param name="size">Read size.</param>
+            <param name="command">I/O port index or memory address.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Stop">
+            <summary>
+Close Avalue driver and disable Avalue API.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Start">
+            <summary>
+Open Avalue driver and initialize Avalue API.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.PowerMode">
+            <summary>
+Power mode.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.Network">
+            <summary>
+Network information.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.CPU_Check">
+            <summary>
+Check CPU ID and microcode.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.CPU_Microcode">
+            <summary>
+CPU microcode.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.CPU_Identifier">
+            <summary>
+CPU identifier.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.CPU_Name">
+            <summary>
+CPU name.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.IPMI_DeviceMAC">
+            <summary>
+IPMI Device MAC.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.IPMI_DeviceIP">
+            <summary>
+IPMI Device IP.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.NPU_Version">
+            <summary>
+NPU version.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.EC_Version">
+            <summary>
+EC version.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.BIOS_Version">
+            <summary>
+BIOS version.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.SMBIOS_SerialNumber">
+            <summary>
+SMBIOS serial number.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.SMBIOS_UUID">
+            <summary>
+SMBIOS UUID.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.Motherboard">
+            <summary>
+Motherboard name.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.Manufacturer">
+            <summary>
+Motherboard manufacturer.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_BaseboardSerialNumber">
+            <summary>
+BIOS DMI information - Baseboard Serial Number.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_BaseboardVersion">
+            <summary>
+BIOS DMI information - Baseboard Version.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_SystemSKUNumber">
+            <summary>
+BIOS DMI information - System SKU Number.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_SystemSerialNumber">
+            <summary>
+BIOS DMI information - System Serial Number.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_SystemProduct">
+            <summary>
+BIOS DMI information - System Product.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.Info.DMI_SystemManufacturer">
+            <summary>
+BIOS DMI information - System Manufacturer.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_Text(System.Int32)">
+            <summary>
+Get fan text.
+</summary>
+            <param name="number">0 ~ 2.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_PWM(System.Int32,System.Byte)">
+            <summary>
+Set fan PWM.
+</summary>
+            <param name="number">0 ~ 2.</param>
+            <param name="value">0x00 ~ 0xFF.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_PWM(System.Int32)">
+            <summary>
+Get fan PWM.
+</summary>
+            <param name="number">0 ~ 2.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_Speed(System.Int32)">
+            <summary>
+Get fan speed.
+</summary>
+            <param name="number">0 ~ 2.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_Mode_Text(System.Int32)">
+            <summary>
+Get smart fan mode text.
+</summary>
+            <param name="number">0 ~ 1.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_Mode(System.Int32,System.Int32)">
+            <summary>
+Set smart fan mode.
+</summary>
+            <param name="number">0 ~ 1.</param>
+            <param name="mode">0 ~ 20.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Fan_Mode(System.Int32)">
+            <summary>
+Get smart fan mode.
+</summary>
+            <param name="number">0 ~ 1.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.PWM_Text(System.Int32)">
+            <summary>
+Get PWM text.
+</summary>
+            <param name="number">0 ~ 5.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.PWM(System.Int32,System.Byte)">
+            <summary>
+Set PWM.
+</summary>
+            <param name="number">0 ~ 5.</param>
+            <param name="value">0x00 ~ 0xFF.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.PWM(System.Int32)">
+            <summary>
+Get PWM.
+</summary>
+            <param name="number">0 ~ 5.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Voltage_Text(Avalue.AvalueAPI.HWM.IC,System.Int32)">
+            <summary>
+Get voltage text.
+</summary>
+            <param name="ic">IC controller.</param>
+            <param name="number">EC: 0 ~ 4; SIO: 0 ~ 7.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Voltage(Avalue.AvalueAPI.HWM.IC,System.Int32)">
+            <summary>
+Get voltage.
+</summary>
+            <param name="ic">IC controller.</param>
+            <param name="number">EC: 0 ~ 4; SIO: 0 ~ 7.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Temperature_System">
+            <summary>
+Get system temperature.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Temperature_CPU_PECI">
+            <summary>
+Get CPU PECI temperature.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Temperature_CPU">
+            <summary>
+Get CPU temperature.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Disable">
+            <summary>
+Hardware monitor class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.HWM.Init">
+            <summary>
+Hardware monitor class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.SRAM_Write(System.UInt16,System.Byte)">
+            <summary>
+Write EC SRAM data.
+</summary>
+            <param name="addr">SRAM address.</param>
+            <param name="data">Write data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.SRAM_Read(System.UInt16)">
+            <summary>
+Read EC SRAM data.
+</summary>
+            <param name="addr">SRAM address.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.BRAM_Write(System.Byte,System.Byte)">
+            <summary>
+Write EC BRAM data.
+</summary>
+            <param name="reg">BRAM register.</param>
+            <param name="data">Write data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.BRAM_Read(System.Byte)">
+            <summary>
+Read EC BRAM data.
+</summary>
+            <param name="reg">BRAM register.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.ID">
+            <summary>
+Get the initialized EC device ID.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.Disable">
+            <summary>
+EC class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.Init(System.UInt16)">
+            <summary>
+EC class initialize with ID.
+</summary>
+            <param name="id">Device ID.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.EC.Init">
+            <summary>
+EC class initialize.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Write(System.Int32,System.Int32,System.Int32,Avalue.AvalueAPI.DIO.VALUE)">
+            <summary>
+Write status.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="pin">Pin number.</param>
+            <param name="value">Pin value.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Write(System.Int32,System.Int32,Avalue.AvalueAPI.DIO.VALUE[])">
+            <summary>
+Write status.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="pin">All pin value.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Write(System.Int32,System.Int32,System.Byte)">
+            <summary>
+Write status.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="data">Port data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Read(System.Int32,System.Int32)">
+            <summary>
+Read status.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Config(System.Int32,System.Int32,System.Int32,Avalue.AvalueAPI.DIO.VALUE)">
+            <summary>
+Set direction.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="pin">Pin number.</param>
+            <param name="value">Pin value.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Config(System.Int32,System.Int32,Avalue.AvalueAPI.DIO.VALUE[])">
+            <summary>
+Set direction.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="pin">All pin value.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Config(System.Int32,System.Int32,System.Byte)">
+            <summary>
+SMBUS mode only. Get DIO configuration.
+</summary>
+            <param name="device">1 ~ 3.</param>
+            <param name="port">0 ~ 1.</param>
+            <summary>
+EC2 mode only. Get IO configuration.
+</summary>
+            <param name="port">0 ~ 1.</param>
+            <summary>
+Set direction.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+            <param name="data">Port data.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Config(System.Int32,System.Int32)">
+            <summary>
+Get direction.
+</summary>
+            <param name="device">0 ~ 1.</param>
+            <param name="port">0 ~ 1.</param>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Mode">
+            <summary>
+DIO mode.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.MappingType">
+            <summary>
+Get mapping type.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Disable">
+            <summary>
+DIO class disable.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Init_Default">
+            <summary>
+DIO class initialize and set default I/O direction.
+</summary>
+        </member>
+        <member name="M:Avalue.AvalueAPI.DIO.Init">
+            <summary>
+DIO class initialize.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.LIGHT.ON">
+            <summary>
+On
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.LIGHT.OFF">
+            <summary>
+Off
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.LIGHT.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.LCD.LIGHT">
+            <summary>
+Backlight status.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CTRL.OS">
+            <summary>
+OS brightness bar control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CTRL.VR">
+            <summary>
+Variable resistance control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CTRL.BUTTON">
+            <summary>
+Button control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CTRL.BIOS">
+            <summary>
+BIOS control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CTRL.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.LCD.CTRL">
+            <summary>
+Control mode.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F20K">
+            <summary>
+20 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F10K">
+            <summary>
+10 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F5K">
+            <summary>
+5 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F3K">
+            <summary>
+3 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F2K">
+            <summary>
+2 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F1K">
+            <summary>
+1 KHz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F700">
+            <summary>
+700 Hz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F500">
+            <summary>
+500 Hz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F400">
+            <summary>
+400 Hz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F300">
+            <summary>
+300 Hz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.F200">
+            <summary>
+200 Hz
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.CLOCK.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.LCD.CLOCK">
+            <summary>
+Clock frequency.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1680X1050_B24_C2">
+            <summary>
+1680x1050, 24/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1920X1080_B24_C2">
+            <summary>
+1920x1080, 24/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1366X768_B24_C1">
+            <summary>
+1366x768, 24/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1600X1200_B24_C2">
+            <summary>
+1600x1200, 24/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1440X900_B18_C2">
+            <summary>
+1440x900, 18/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1280X1024_B24_C2">
+            <summary>
+1280x1024, 24/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1920X1080_B18_C2">
+            <summary>
+1920x1080, 18/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R800X480_B18_C1">
+            <summary>
+800x480, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R640X480_B18_C1">
+            <summary>
+640x480, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1920X1200_B24_C2">
+            <summary>
+1920x1200, 24/2
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1280X800_B18_C1">
+            <summary>
+1280x800, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1024X600_B18_C1">
+            <summary>
+1024x600, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1366X768_B18_C1">
+            <summary>
+1366x768, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1024X768_B18_C1">
+            <summary>
+1024x768, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R800X600_B18_C1">
+            <summary>
+800x600, 18/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.R1024X768_B24_C1">
+            <summary>
+1024x768, 24/1
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.LCD.SPEC.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.LCD.SPEC">
+            <summary>
+Specifications.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.LCD">
+            <summary>
+LVDS LCD panel.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.HWM.IC.SIO">
+            <summary>
+Super I/O
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.HWM.IC.EC">
+            <summary>
+Embed controller
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.HWM.IC">
+            <summary>
+IC controller.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.HWM">
+            <summary>
+Hardware monitor.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.WDT.UNIT.MINUTE">
+            <summary>
+Minute
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.WDT.UNIT.SECOND">
+            <summary>
+Second
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.WDT.UNIT">
+            <summary>
+Countdown unit.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.WDT">
+            <summary>
+Watchdog timer.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.DATA.Port">
+            <summary>
+Port data.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.DATA.Pin">
+            <summary>
+Pin data.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO.DATA">
+            <summary>
+I/O data.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.VALUE.HI">
+            <summary>
+High/Input
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.VALUE.LO">
+            <summary>
+Low/Output
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.VALUE.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO.VALUE">
+            <summary>
+Value/Direction.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO16">
+            <summary>
+16 In / 16 Out (2 I/O extend)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO14">
+            <summary>
+14 In / 14 Out (2 I/O extend)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO12">
+            <summary>
+12 In / 12 Out (2 I/O extend)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO10">
+            <summary>
+10 In / 10 Out (2 I/O extend)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO8">
+            <summary>
+8 In / 8 Out
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO6">
+            <summary>
+6 In / 6 Out
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO5">
+            <summary>
+5 In / 5 Out
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO4">
+            <summary>
+4 In / 4 Out
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.IO2">
+            <summary>
+2 In / 2 Out
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MAPPING.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO.MAPPING">
+            <summary>
+Mapping type.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.DIR.INPUT">
+            <summary>
+Input
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.DIR.OUTPUT">
+            <summary>
+Output
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO.DIR">
+            <summary>
+I/O direction.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MODE.EC2">
+            <summary>
+EC control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MODE.EC1">
+            <summary>
+EC control (I/O direction fixed)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MODE.SMBUS">
+            <summary>
+SMBUS slave control
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.DIO.MODE.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO.MODE">
+            <summary>
+Operating mode.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.DIO">
+            <summary>
+Digital I/O.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.SIO">
+            <summary>
+Super I/O.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.EC">
+            <summary>
+Embed controller.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.IUS">
+            <summary>
+In use status
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.SMSTS">
+            <summary>
+SMBALERT_STS
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.FAIL">
+            <summary>
+Failed
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.BERR">
+            <summary>
+Bus error
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.DERR">
+            <summary>
+Device error
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.INTR">
+            <summary>
+Interrupt
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.HBSY">
+            <summary>
+Host busy
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.READY">
+            <summary>
+Ready
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.SMBUS.STATUS.NA">
+            <summary>
+Class not initialized
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.SMBUS.STATUS">
+            <summary>
+SMBUS status.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.SMBUS">
+            <summary>
+System management bus.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.H1">
+            <summary>
+1 hour
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.M30">
+            <summary>
+30 min
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.M15">
+            <summary>
+15 min
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.M10">
+            <summary>
+10 min
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.M5">
+            <summary>
+5 min
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.M1">
+            <summary>
+1 min
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.S30">
+            <summary>
+30 sec
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.S10">
+            <summary>
+10 sec
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TIME.DISABLE">
+            <summary>
+Disable
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.VMS.TIME">
+            <summary>
+Delay time.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.T4">
+            <summary>
+12.5V, 11.5V / 25V, 23V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.T3">
+            <summary>
+12.5V, 11.0V / 25V, 22V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.T2">
+            <summary>
+12.0V, 11.0V / 24V, 22V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.T1">
+            <summary>
+11.5V, 10.5V / 23V, 21V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.DISABLE">
+            <summary>
+Disable
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.TRIGGER.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.VMS.TRIGGER">
+            <summary>
+Vin boot/shutdown trigger.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.SWITCH.ON">
+            <summary>
+On
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.SWITCH.OFF">
+            <summary>
+Off
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.SWITCH.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.VMS.SWITCH">
+            <summary>
+Ignition switch.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.RANGE.V9_36">
+            <summary>
+9V ~ 36V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.RANGE.UNKNOWN">
+            <summary>
+Unknown
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.RANGE.V12">
+            <summary>
+12V
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.VMS.RANGE.V24">
+            <summary>
+24V
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.VMS.RANGE">
+            <summary>
+Input voltage range.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.VMS">
+            <summary>
+VMS Series.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.CashDrawer.DRAWERSTATE.CLOSE">
+            <summary>
+Close
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.CashDrawer.DRAWERSTATE.OPEN">
+            <summary>
+Open
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.CashDrawer.DRAWERSTATE.NA">
+            <summary>
+Not initialized
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.CashDrawer.DRAWERSTATE">
+            <summary>
+Cash drawer state.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.CashDrawer">
+            <summary>
+Cash drawer.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.TIME">
+            <summary>
+RTC time.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.RES.FROZEN_INVALID_YEAR">
+            <summary>
+RTC freeze handled, year invalid.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.RES.FROZEN">
+            <summary>
+RTC freeze handled.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.RES.INVALID_YEAR">
+            <summary>
+RTC checked, year invalid.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.RES.OK">
+            <summary>
+RTC check passed.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.RES.NA">
+            <summary>
+Class not initialized or method not supported.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.RES">
+            <summary>
+RTC result.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.STATE.ENABLE">
+            <summary>
+Enable
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.STATE.DISABLE">
+            <summary>
+Disable
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.STATE.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.STATE">
+            <summary>
+Function state.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.TYPE.RS485">
+            <summary>
+RS-485
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.TYPE.RS422">
+            <summary>
+RS-422
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.TYPE.RS232">
+            <summary>
+RS-232
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.TYPE.NA">
+            <summary>
+Class not initialized or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.TYPE">
+            <summary>
+COM port type.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.ORIENTATION.PORTRAIT_FLIPPED">
+            <summary>
+Portrait (flipped)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.ORIENTATION.LANDSCAPE_FLIPPED">
+            <summary>
+Landscape (flipped)
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.ORIENTATION.PORTRAIT">
+            <summary>
+Portrait
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Setting.ORIENTATION.LANDSCAPE">
+            <summary>
+Landscape
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting.ORIENTATION">
+            <summary>
+Display orientation.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Setting">
+            <summary>
+Motherboard setting.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Info.NET.MAC">
+            <summary>
+Network MAC address
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Info.NET.Name">
+            <summary>
+Network name
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Info.NET">
+            <summary>
+Network detail.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Info.PWR.ATX">
+            <summary>
+ATX mode
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Info.PWR.AT">
+            <summary>
+AT mode
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.Info.PWR.NA">
+            <summary>
+API not started or method not supported
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Info.PWR">
+            <summary>
+Power mode.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.Info">
+            <summary>
+Motherboard information.
+</summary>
+        </member>
+        <member name="P:Avalue.AvalueAPI.Version_Text">
+            <summary>
+Avalue API version text.
+</summary>
+        </member>
+        <member name="P:Avalue.AvalueAPI.Version">
+            <summary>
+Avalue API version number.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.RWSIZE.DWORD">
+            <summary>
+32 bit
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.RWSIZE.WORD">
+            <summary>
+16 bit
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.RWSIZE.BYTE">
+            <summary>
+8 bit
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.RWSIZE">
+            <summary>
+Data read/write size.
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.ACCESS.MEMORY">
+            <summary>
+Memory address
+</summary>
+        </member>
+        <member name="F:Avalue.AvalueAPI.ACCESS.IOPORT">
+            <summary>
+I/O port index/data
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI.ACCESS">
+            <summary>
+Basic read/write access.
+</summary>
+        </member>
+        <member name="T:Avalue.AvalueAPI">
+            <summary>
+Avalue product information and operation.
+</summary>
+        </member>
+    </members>
+</doc>

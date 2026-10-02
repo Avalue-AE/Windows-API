@@ -1,0 +1,7 @@
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Release\WDT.exe.config
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Release\WDT.exe
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Release\WDT.pdb
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Release\AvalueAPI.dll
+C:\Users\Test\Downloads\220928\WDT\WDT\bin\Release\AvalueAPI.xml
+C:\Users\Test\Downloads\220928\WDT\WDT\obj\Release\WDT.exe
+C:\Users\Test\Downloads\220928\WDT\WDT\obj\Release\WDT.pdb

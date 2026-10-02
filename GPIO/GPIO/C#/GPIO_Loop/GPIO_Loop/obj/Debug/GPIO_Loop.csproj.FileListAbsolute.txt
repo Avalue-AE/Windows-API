@@ -1,0 +1,18 @@
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\上傳Wiki的版本\GPIO\Managed\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\Sample Code\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\bin\Debug\GPIO_Loop.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\GPIO\C#\GPIO_Loop\GPIO_Loop\obj\Debug\GPIO_Loop.pdb

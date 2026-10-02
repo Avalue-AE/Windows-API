@@ -1,0 +1,19 @@
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\bin\Debug\HWM.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\bin\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\bin\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\obj\Debug\HWM.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\obj\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\HWM\HWM\obj\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\bin\Debug\HWM.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\obj\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\obj\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\bin\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\bin\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\Managed\Sample Code\HWM\HWM\obj\Debug\HWM.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\bin\Debug\HWM.exe.config
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\bin\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\bin\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\obj\Debug\HWM.csprojResolveAssemblyReference.cache
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\obj\Debug\HWM.exe
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\obj\Debug\HWM.pdb
+D:\Gary Tsai\Project\Avalue\AP\Demo\AvalueWiki\HWM\C#\HWM\HWM\bin\Debug\AvalueAPI.xml
