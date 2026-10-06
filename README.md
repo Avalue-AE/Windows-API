@@ -14,6 +14,11 @@ Version:3.00.06.16 Release time 2026/9/18
 - [SMBUS](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)
 - [Info](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)
 
+## Windows APP
+- RTC Sync
+- Watch Dog  
+
+
 ## Support List
 - **Baytrial**
   - ACP-BYTPOS
