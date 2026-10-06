@@ -1,26 +1,27 @@
-# Windows-API
-
-Version:3.00.06.16 Release time 2026/9/18
+# Windows API
+Version: 3.00.06.16
+Release Date: 2026/09/18
 
 ## API
-- [Windows API v3.00.06.16](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
+Access and control Avalue product features.
+- [API.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
 
-## Test tool & Sample code
-- [GPIO.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)  [GPIO_Source code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)
-- [HWM](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)
-- [LCD](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)
-- [Read Write Test](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)
-- [WDT](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/WDT.zip)
-- [SMBUS](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)
-- [Info](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)
+## Test Tools & Sample Code
+Test tools for API testing and sample code reference.
+- [GPIO.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)    ([GPIO Source Code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip))
+- [HWM.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)    ([HWM Source Code])
+- [LCD.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)    ([LCD Source Code])
+- [Read Write Test.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)    ([Read Write Test Source Code])
+- [WDT.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/WDT.zip)    ([WDT Source Code])
+- [SMBUS.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)    ([SMBUS Source Code])
+- [Info.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)    ([Info Source Code])
 
-## Windows APP
+## Applications
+Complete functional applications built with the Windows API.
 - [RTC Sync](http)  
   說明
-- Watch Dog
-- BMC tool  
-  說明:EMX-W880P
-
+- Watch Dog 
+  說明
 
 ## Support List
 - **Baytrial**
