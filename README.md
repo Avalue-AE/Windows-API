@@ -15,7 +15,7 @@ Version:3.00.06.16 Release time 2026/9/18
 - [Info](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)
 
 ## Windows APP
-- [RTC Sync](http)
+- [RTC Sync](http)  
   說明
 - Watch Dog  
 
