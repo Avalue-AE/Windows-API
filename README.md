@@ -5,8 +5,8 @@ Version:3.00.06.16 Release time 2026/9/18
 ## API
 - [Windows API v3.00.06.16](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
 
-## Test tool
-- [GPIO.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip) [GPIO_Source code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)
+## Test tool & Sample code
+- [GPIO.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)  [GPIO_Source code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)
 - [HWM](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)
 - [LCD](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)
 - [Read Write Test](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)
