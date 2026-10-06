@@ -1,5 +1,7 @@
 # Windows-API
 
+Version:3.00.06.16 Release time 2026/9/18
+
 ## API
 - [Windows API v3.00.06.16](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
 
