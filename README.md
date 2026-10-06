@@ -17,7 +17,9 @@ Version:3.00.06.16 Release time 2026/9/18
 ## Windows APP
 - [RTC Sync](http)  
   說明
-- Watch Dog  
+- Watch Dog
+- BMC tool  
+  說明:EMX-W880P
 
 
 ## Support List
