@@ -1,5 +1,5 @@
 # Windows API
-Version: 3.00.06.16
+Version: 3.00.06.16  
 Release Date: 2026/09/18
 
 ## API
@@ -20,7 +20,7 @@ Test tools for API testing and sample code reference.
 Complete functional applications built with the Windows API.
 - [RTC Sync](http)  
   說明
-- Watch Dog 
+- Watch Dog  
   說明
 
 ## Support List
