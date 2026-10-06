@@ -20,7 +20,7 @@ Test tools for API testing and sample code reference.
 Complete functional applications built with the API.
 - [RTC Sync](http)  
   Description: Synchronize the BIOS or system time with the RTC.
-- Watch Dog  
+- Watchdog  
   Description: Configure and monitor the system watchdog timer.
 
 ## Support List
