@@ -1,16 +1,16 @@
 # Windows-API
 
 ## API
-- [Windows API v3.00.06.16](https://github.com/AE-public/wiki/releases/download/tempTag/API.zip)
+- [Windows API v3.00.06.16](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
 
 ## Sample code
-- [GPIO](https://github.com/AE-public/wiki/releases/download/tempTag/GPIO.zip)
-- [HWM](https://github.com/AE-public/wiki/releases/download/tempTag/HWM.zip)
-- [LCD](https://github.com/AE-public/wiki/releases/download/tempTag/LCD.zip)
-- [Read Write Test](https://github.com/AE-public/wiki/releases/download/tempTag/ReadWriteTest.zip)
-- [WDT](https://github.com/AE-public/wiki/releases/download/tempTag/WDT.zip)
-- [SMBUS](https://github.com/AE-public/wiki/releases/download/tempTag/SMBUS.zip)
-- [Info](https://github.com/AE-public/wiki/releases/download/tempTag/Info.zip)
+- [GPIO](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)
+- [HWM](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)
+- [LCD](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)
+- [Read Write Test](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)
+- [WDT](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/WDT.zip)
+- [SMBUS](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)
+- [Info](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)
 
 ## Support List
 - **Baytrial**
