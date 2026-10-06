@@ -17,11 +17,11 @@ Test tools for API testing and sample code reference.
 - [Info.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)    ([Info Source Code])
 
 ## Applications
-Complete functional applications built with the Windows API.
+Complete functional applications built with the API.
 - [RTC Sync](http)  
-  說明
+  Description: Synchronize the BIOS or system time with the RTC.
 - Watch Dog  
-  說明
+  Description: Configure and monitor the system watchdog timer.
 
 ## Support List
 - **Baytrial**
