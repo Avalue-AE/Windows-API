@@ -220,3 +220,6 @@ Complete functional applications built with the API.
     - EMX-KX60G
     - ESM-KX60G
     - ESM-KX60GC
+
+
+ You are welcome to give us suggestions for this website. Please email Technical@avalue.com or github_ae@avalue.com with your suggestions.
