@@ -20,7 +20,7 @@ Test tools for API testing and sample code reference.
 Complete functional applications built with the API.
 - [RTC Sync](http)  
   Description: Synchronize the BIOS or system time with the RTC.
-- Watchdog  
+- [Watchdog](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Avalue_WatchdogTimer.v1.1.1.zip)  
   Description: Configure and monitor the system watchdog timer.
 
 ## Support List
