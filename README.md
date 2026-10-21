@@ -220,5 +220,18 @@ Complete functional applications built with the API.
     - ESM-KX60G
     - ESM-KX60GC
 
+- **Zhaoxin**
+  - **KX-6000**
+||GPIO|WDT|
+|:---:|:---:|:---:|
+|EMX-ZXEDP|✓|✓|
+  - **KX-6000G**
+||GPIO|WDT|
+|:---:|:---:|:---:|
+|EMX-KX60G|✓|✓|
+|ESM-KX60G|✓|✓|
+|ESM-KX60GC|✓|✓|
 
- You are welcome to give us suggestions for this website. Please email Technical@avalue.com or github_ae@avalue.com with your suggestions.
+---
+You are welcome to give us suggestions for this website.  
+Please email Technical@avalue.com or github_ae@avalue.com with your suggestions.
