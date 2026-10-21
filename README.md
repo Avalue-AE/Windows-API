@@ -1,9 +1,7 @@
 # Windows API
 Version: 3.00.06.16  
 Release Date: 2026/09/18  
-
-Access and control Avalue product features.
-- [Download](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)
+- [Download](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)  
 
 ## Test Tools & Sample Code
 Test tools for API testing and sample code reference.
