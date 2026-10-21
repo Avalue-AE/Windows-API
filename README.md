@@ -214,26 +214,18 @@ Complete functional applications built with the API.
 
 - **Zhaoxin**
   - **KX-6000**
-    - EMX-ZXEDP
-  - **KX-6000G**
-    - EMX-KX60G
-    - ESM-KX60G
-    - ESM-KX60GC
 
-- **Zhaoxin**
-  - **KX-6000**
-
-    | Model | GPIO | WDT |
-    |:---:|:---:|:---:|
-    | EMX-ZXEDP | ✓ | ✓ |
+    | Model | WDT | GPIO | HWM | LCD |
+    |:---|:---:|:---:|:---:|:---:|
+    | EMX-ZXEDP | ✓ | ✓ | ✓ | ✓ |
 
   - **KX-6000G**
 
-    | Model | GPIO | WDT |
-    |:---:|:---:|:---:|
-    | EMX-KX60G | ✓ | ✓ |
-    | ESM-KX60G | ✓ | ✓ |
-    | ESM-KX60GC | ✓ | ✓ |
+    | Model | WDT | GPIO | HWM | LCD |
+    |:---|:---:|:---:|:---:|:---:|
+    | EMX-KX60G | ✓ | ✓ | ✓ | ✓ |
+    | ESM-KX60G | ✓ | ✓ | ✓ | ✓ |
+    | ESM-KX60GC | ✓ | ✓ | ✓ | ✓ |
 
 ---
 You are welcome to give us suggestions for this website.  
