@@ -222,15 +222,18 @@ Complete functional applications built with the API.
 
 - **Zhaoxin**
   - **KX-6000**
-||GPIO|WDT|
-|:---:|:---:|:---:|
-|EMX-ZXEDP|✓|✓|
+
+    | Model | GPIO | WDT |
+    |:---:|:---:|:---:|
+    | EMX-ZXEDP | ✓ | ✓ |
+
   - **KX-6000G**
-||GPIO|WDT|
-|:---:|:---:|:---:|
-|EMX-KX60G|✓|✓|
-|ESM-KX60G|✓|✓|
-|ESM-KX60GC|✓|✓|
+
+    | Model | GPIO | WDT |
+    |:---:|:---:|:---:|
+    | EMX-KX60G | ✓ | ✓ |
+    | ESM-KX60G | ✓ | ✓ |
+    | ESM-KX60GC | ✓ | ✓ |
 
 ---
 You are welcome to give us suggestions for this website.  
