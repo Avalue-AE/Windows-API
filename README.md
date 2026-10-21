@@ -1,24 +1,25 @@
 # Windows API
 Version: 3.00.06.16  
 Release Date: 2026/09/18  
-- [Download](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)  
+Access and control Avalue product features.
+- [API](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/API.zip)  
 
 ## Test Tools & Sample Code
 Test tools for API testing and sample code reference.
-- [GPIO.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)    ([GPIO Source Code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip))
-- [HWM.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)    ([HWM Source Code])
-- [LCD.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)    ([LCD Source Code])
-- [Read Write Test.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)    ([Read Write Test Source Code])
-- [WDT.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/WDT.zip)    ([WDT Source Code])
-- [SMBUS.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)    ([SMBUS Source Code])
-- [Info.zip](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)    ([Info Source Code])
+- [GPIO](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip)    ([Source Code](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/GPIO.zip))
+- [HWM](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/HWM.zip)    ([Source Code])
+- [LCD](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/LCD.zip)    ([Source Code])
+- [ReadWriteTest](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/ReadWriteTest.zip)    ([Source Code])
+- [WDT](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/WDT.zip)    ([Source Code])
+- [SMBus](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/SMBUS.zip)    ([Source Code])
+- [Info](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Info.zip)    ([Source Code])
 
 ## Applications
 Complete functional applications built with the API.
 - [RTC Sync](http)  
-  Description: Synchronize the BIOS or system time with the RTC.
-- [Watchdog](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Avalue_WatchdogTimer.v1.1.1.zip)  
-  Description: Configure and monitor the system watchdog timer.
+  Synchronize the BIOS or system time with the RTC.
+- [WatchdogTimer](https://github.com/Avalue-AE/Windows-API/releases/download/Windows-API/Avalue_WatchdogTimer.v1.1.1.zip)  
+  Configure and monitor the system watchdog timer.
 
 ## Support List
 - **Baytrial**
